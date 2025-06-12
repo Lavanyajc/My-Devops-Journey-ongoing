@@ -1,19 +1,36 @@
-# 🚀 DevOps Linux Practice
+# 🐧 Linux Basics – DevOps Practice
 
-This repository documents my Linux learning journey with hands-on commands, VM setup using Vagrant, and real-world terminal practice — built as part of my DevOps roadmap.
+This folder contains my hands-on Linux command practice as part of my DevOps journey. It includes command usage, Vim editing experience, and screenshots from my virtual machines.
 
-## 📁 What’s Inside
+---
 
-- `linux-commands.md`: All important Linux commands with clear examples
-- `vim-notes.md`: Practiced Vim commands (like :wq, dd, yy, etc.)
-- `vagrant-setup.md`: Steps I used to spin up CentOS/Ubuntu VMs via Vagrant
-- `screenshots/`:  Terminal screenshots as proof of hands-on work
+## 📂 Folder Structure
+
+- `commands/linux-commands.md`: Important Linux commands with explanations
+- `screenshots/`: Proof of hands-on work using Vagrant and manual VMs
+
+---
+
+## 🚀 Topics Covered
+
+✅ Command Line  
+✅ File System  
+✅ Permissions  
+✅ Users & Groups  
+✅ Redirection & Filters  
+✅ Package Management  
+✅ Vim Editor  
+✅ Vagrant VM Setup
+
+---
 
 ## 🛠 Tools Used
 
-- Git Bash, Vim, Vagrant, VirtualBox
-- Ubuntu and CentOS Virtual Machines
+- Git Bash / Terminal  
+- Vim Editor  
+- Vagrant + VirtualBox  
+- CentOS and Ubuntu VMs
 
-## 🎯 Why This Repo?
 
-To showcase my foundational DevOps skills through actual command-line work and system setup experience.
+
+📌 I’ll continue updating this repo as I progress in my DevOps roadmap.
