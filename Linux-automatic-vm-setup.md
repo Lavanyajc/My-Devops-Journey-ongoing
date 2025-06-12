@@ -35,13 +35,13 @@ cd vagrant
 mkdir centos
 mkdir ubuntu
 ```
-
+keep vagrant in c drive so path can be followed easily.
 ---
 
 ### 2️⃣ Setup CentOS VM
 
 ```bash
-cd centos
+cd /c/vagrant/centos
 vagrant init centos/7        # Official CentOS 7 box from Vagrant Cloud
 vagrant up                   # Downloads and boots the CentOS VM
 vagrant ssh                  # Access the CentOS VM
@@ -52,7 +52,7 @@ vagrant ssh                  # Access the CentOS VM
 ### 3️⃣ Setup Ubuntu VM
 
 ```bash
-cd ../ubuntu
+cd /c/vagrant/ubuntu
 vagrant init ubuntu/focal64  # Official Ubuntu 20.04 (Focal Fossa) 64-bit box
 vagrant up                   # Boots the Ubuntu VM
 vagrant ssh                  # Access the Ubuntu VM
