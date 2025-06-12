@@ -8,7 +8,7 @@ This repository documents my Linux learning journey with hands-on commands, VM s
 - `linux-commands.md`: All important Linux commands with clear examples
 - `vim-notes.md`: Practiced Vim commands (like :wq, dd, yy, etc.)
 - `vagrant-setup.md`: Steps I used to spin up CentOS/Ubuntu VMs via Vagrant
-- `screenshots/`: (Optional) Terminal screenshots as proof of hands-on work
+- `screenshots/`:  Terminal screenshots as proof of hands-on work
 
 ## 🛠 Tools Used
 
